@@ -125,6 +125,9 @@ This project uses **Agglomerative Clustering**, as it provided the best performa
 
 A full **video demonstration** of running the Jupyter Notebook and obtaining recommendations can be found in `demo.md`. Follow the video to see step-by-step execution.
 
+## Salary Expectation (Mandatory)
+   - My expected monthly salary for this internship is **$[25$ per hour]**.
+
 ## License
 
 This project is for educational purposes only. IMDb data is used under fair use for research and analysis.
